@@ -70,13 +70,10 @@
 </p>
 
 
-### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/RaisNafis/RaisNafis/blob/output/dist/github-contribution-grid-snake.svg?color_snake=%2300BFFF&color_grid=%2322272e" alt="Snake Animation" />
 </p>
 
-
-### 🖥️ Terminal Style Info
 ```bash
 > whoami
 RaisNafis
