@@ -44,6 +44,22 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaisNafis&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 👥 Top Contributors
+<p align="center">
+  <img src="https://contrib.rocks/image?repo=RaisNafis/your-repository" alt="Top Contributors" />
+</p>
+
+---
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/RaisNafis/RaisNafis/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
