@@ -60,7 +60,7 @@
 
 ### 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,c,cpp,php,laravel,python,mysql,react,git,vscode" alt="Skills & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs,expressjs,c,cpp,php,laravel,python,mysql,react,git,vscode" alt="Skills & Tools" />
 </p>
 
 ---
