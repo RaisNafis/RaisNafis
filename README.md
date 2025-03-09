@@ -97,7 +97,7 @@ Linux | Developer | Open Source Enthusiast
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Social Media
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
