@@ -60,7 +60,7 @@
 
 ### 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs,expressjs,c,cpp,php,laravel,python,mysql,react,git,vscode" alt="Skills & Tools" />
+  <img src="https://skillicons.dev/icons?i=html" alt="Skills & Tools" />
 </p>
 
 ---
@@ -101,16 +101,6 @@ RaisNafis
 > uname -a
 Linux | Developer | Open Source Enthusiast
 ```
-
----
-
-### 🏷 Fancy Developer Card
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
----
 
 ### 📱 Social Media
 <p align="center">
