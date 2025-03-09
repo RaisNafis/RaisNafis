@@ -79,14 +79,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RaisNafis&theme=radical" alt="GitHub Trophies" />
 </p>
 
----
-
-### 👥 Top Contributors
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=RaisNafis/RaisNafis" alt="Top Contributors" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 <p align="center">
