@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 About Me
-<table>
+<table align="center">
 <tr>
 <td>
 <ul>
