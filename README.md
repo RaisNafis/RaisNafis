@@ -74,14 +74,6 @@
   <img src="https://github.com/RaisNafis/RaisNafis/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
 </p>
 
----
-
-### ⏳ Time Spent on Coding
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaisNafis" alt="Wakatime Stats" />
-</p>
-
----
 
 ### 🖥️ Terminal Style Info
 ```bash
