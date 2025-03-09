@@ -1,4 +1,4 @@
-<h2 align="center">I'm CatFlix-TechDev 👋</h2>
+<h2 align="center">I'm RaisNafis 👋</h2>
 
 ---
 
@@ -7,7 +7,7 @@
 - 📫 How to reach me: **catflixtechdev@example.com**.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CatFlix-TechDev&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RaisNafis&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 ### 📊 My Activities
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CatFlix-TechDev&theme=github-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaisNafis&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -37,16 +37,16 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CatFlix-TechDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatFlix-TechDev&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CatFlix-TechDev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/CatFlix-TechDev/CatFlix-TechDev/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
+  <img src="https://github.com/RaisNafis/RaisNafis/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
 </p>
 
 ---
