@@ -3,8 +3,19 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m new in programming 😊.
-- 📫 How to reach me: **catflixtechdev@example.com**.
+<table>
+<tr>
+<td>
+<ul>
+<li>🔯 I’m new in programming 😊.</li>
+<li>📧 How to reach me: <strong>catflixtechdev@example.com</strong>.</li>
+</ul>
+</td>
+<td>
+<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=RaisNafis" width="150" alt="User Profile Pixel Art" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RaisNafis&color=blue&style=flat" alt="Profile Views" />
@@ -53,16 +64,39 @@
 
 ### 👥 Top Contributors
 <p align="center">
-  <img src="https://contrib.rocks/image?repo=RaisNafis/your-repository" alt="Top Contributors" />
+  <img src="https://contrib.rocks/image?repo=RaisNafis/RaisNafis" alt="Top Contributors" />
 </p>
-
----
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/RaisNafis/RaisNafis/blob/output/dist/github-contribution-grid-snake.gif" alt="Snake Animation" />
+</p>
+
+---
+
+### ⏳ Time Spent on Coding
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaisNafis" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 🖥️ Terminal Style Info
+```bash
+> whoami
+RaisNafis
+> uname -a
+Linux | Developer | Open Source Enthusiast
+```
+
+---
+
+### 🏷 Fancy Developer Card
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
