@@ -25,6 +25,9 @@
   <a href="https://discord.com/users/yourdiscordid" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
+     <a href="https://t.me/yourtelegram" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </ul>
 </td>
 <td>
@@ -109,7 +112,7 @@ Linux | Developer | Open Source Enthusiast
 
 ---
 
-### 🤝 Social Media
+### 📱 Social Media
 <p align="center">
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
@@ -117,19 +120,7 @@ Linux | Developer | Open Source Enthusiast
   <a href="https://instagram.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://youtube.com/yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
   <a href="https://tiktok.com/@yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/yourwhatsappnumber">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
