@@ -8,11 +8,11 @@
 <td>
 <ul>
 <li>🔯 I’m new in programming 😊.</li>
-<li>📧 How to reach me: <strong>catflixtechdev@example.com</strong>.</li>
+<li>📧 How to reach me: <strong>email@gmail</strong>.</li>
 </ul>
 </td>
 <td>
-<img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=RaisNafis" width="150" alt="User Profile Pixel Art" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6ab41162733715.5a99940063fdc.png" width="150" alt="User Profile Pixel Art" />
 </td>
 </tr>
 </table>
