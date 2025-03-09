@@ -9,6 +9,9 @@
 <ul>
 <li>🔯 I’m new in programming 😊.</li>
 <li>📧 How to reach me: <strong>email@gmail</strong>.</li>
+   <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </ul>
 </td>
 <td>
