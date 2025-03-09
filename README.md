@@ -10,9 +10,23 @@
 <li>🔯 I’m new in programming 😊.</li>
 <li>📧 How to reach me: <strong>email@gmail</strong>.</li>
    <br>
-   <button>hello</button>
-   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+    <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://tiktok.com/@yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+     <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </ul>
 </td>
@@ -46,7 +60,7 @@
 
 ### 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,git,vscode" alt="Skills & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,c,cpp,php,laravel,python,mysql,react,git,vscode" alt="Skills & Tools" />
 </p>
 
 ---
@@ -100,16 +114,25 @@ Linux | Developer | Open Source Enthusiast
 
 ### 🤝 Social Media
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://instagram.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://youtube.com/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://tiktok.com/@yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
